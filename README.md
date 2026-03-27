@@ -144,6 +144,18 @@ See [langchain-tools/](../langchain-tools/) for full implementation.
 
 ---
 
+## AI Platform Integrations
+
+Use Meridian Edge consensus data directly inside major AI platforms — no code required:
+
+| Platform | Link | Notes |
+|----------|------|-------|
+| **ChatGPT** | [Open Custom GPT](https://chatgpt.com/g/g-69c5cf29be388191aeaaf3159cd41697-prediction-market-consensus) | No setup — just open and ask |
+| **Claude** | [MCP install guide](https://github.com/meridian-edge/meridian-edge-mcp) | Claude Desktop / Cursor via MCP |
+| **Gemini** | [Open Gem](https://gemini.google.com/gem/1aSpfo0atq00TWFEjDJLytxzsnqTdqHjJ) | No setup — just open and ask |
+
+---
+
 ## Compliance
 
 - All data is aggregated from publicly available regulated prediction markets
